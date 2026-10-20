@@ -1,0 +1,6 @@
+
+# macOS and Java build files
+.DS_Store
+.metadata/
+**/target/
+**/bin/
